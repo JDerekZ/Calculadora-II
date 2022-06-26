@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DSIzCHwJMisuvUDAQQMIoi9FvkPkksDmxWx81eWAhGuTfWjPCX4k6aSBXT3BsCzA4sH1GHNnxUisuXpWOvN09w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jdere\\OneDrive\\Documentos\\Programación II\\Calculadora_\\Logic_Layer\\Logic_Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jdere\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jdere\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

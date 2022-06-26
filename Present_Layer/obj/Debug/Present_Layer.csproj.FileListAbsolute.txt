@@ -1,0 +1,12 @@
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\bin\Debug\Present_Layer.exe
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\bin\Debug\Present_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\bin\Debug\ClassLibrary1.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\bin\Debug\ClassLibrary1.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\obj\Debug\Present_Layer.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\obj\Debug\Present_Layer.FrmCalculadora.resources
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\obj\Debug\Present_Layer.Properties.Resources.resources
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\obj\Debug\Present_Layer.csproj.GenerateResource.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\obj\Debug\Present_Layer.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\obj\Debug\Present_Layer.csproj.CopyComplete
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\obj\Debug\Present_Layer.exe
+C:\Users\jdere\OneDrive\Documentos\Programación II\Calculadora_\Present_Layer\obj\Debug\Present_Layer.pdb
